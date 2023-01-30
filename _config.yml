@@ -24,10 +24,10 @@ baseurl: /
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://www.isforyou.org.cn/images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+favicon: https://www.isforyou.org.cn/images/logo.png
 
 
 # 菜单中的按钮
@@ -51,7 +51,6 @@ excerpt_separator: <!-- more -->
 footer-links: 
   email: walking_typhoon@163.com #youremailaddress@mail.com
   github:  Typhoon-Headquarters #https://github.com/<>
-  rss: walking typhoon#随便填点啥RSS就能用了
 
 # 站点页脚的文字
 footer-text: Copyright (c) 2023 来自山的那边，海的那边
