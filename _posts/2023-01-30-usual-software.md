@@ -6,6 +6,7 @@ Author: Typhoon-Headquarters
 tags: [computer, Windows, 软件安装,软件,计算机,软件导航]
 comments: true
 ---
+这个页面用来给大家导航当我们安装`Windows`系统的时候，可能需要的一些软件，当然此处我们指出的都是经过检验且绿色的，请放心使用，您可以点击链接了解或者先阅读简介。
 
 # Windows装机必备软件导航
 
